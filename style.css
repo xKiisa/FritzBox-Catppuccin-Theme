@@ -1,0 +1,684 @@
+/* Login screen */
+.fbox.dialog_head {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+#submitLoginBtn {
+    background-color: #181825;
+    color: #cad3f5;
+}
+.dialog_inner {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.dialog_outer {
+    background-color: #1e1e2e;
+    color: #cad3f5;
+}
+#uiViewUser {
+    background-color: #1e1e2e;
+    color: #cad3f5;
+}
+.text-input__box {
+    background-color: #1e1e2e;
+    color: #cad3f5;
+}
+#uiPassInput {
+    color: #cad3f5;
+}
+#uiUsername > label {
+    color: #cad3f5;
+}
+#uiPasswordArea > label {
+    color: #cad3f5;
+}
+/* Top Menu bar */
+#uiBackButton {
+    background-color: #313244 !Important;
+    color: #cad3f5;
+}
+.blueBarRightBox {
+    background-color: #181825 !Important;
+    color: #cad3f5;
+}
+#blueBarBox {
+    background-color: #181825 !Important;
+    color: #cad3f5;
+}
+.breadcrumb {
+    background-color: #181825 !Important;
+    color: #cad3f5;
+}
+/* Side Menu */
+#wizOv {
+    color: #cad3f5;
+}
+#sitemap {
+    color: #cad3f5;
+}
+.avmLogo {
+    background-color: #181825 !Important;
+    color: #cad3f5;
+}
+.navigationFootLinks {
+    background-color: #181825 !Important;
+    color: #cad3f5;
+}
+.logoBox {
+    background: none #181825 !Important;
+}
+.h2-semibold.logoArea {
+    background-image: url(/assets/logos/logo_fritzDiamond.svg);
+}
+.selected.show.menu_item {
+    background-color: #3d3f52 !Important;
+    color: #cad3f5;
+}
+.borderColorFix {
+    background-color: #181825 !Important;
+    color: #cad3f5;
+}
+#menuBox {
+    background-color: #181825 !Important;
+    color: #cad3f5;
+}
+.h4.with_sub.menu_item.show {
+    background-color: #181825 !Important;
+    color: #cad3f5;
+}
+.menuArea {
+    background: none #181825 !Important;
+    color: #cad3f5;
+}
+.selected.show.h4.menu_item {
+    background-color: #313244!Important;
+    color: #cad3f5;
+}
+/* Main content */
+.fakeTextInput {
+    background: none #181825 !Important;
+    color: #cad3f5;
+}
+.innerbutton > button {
+    background-color: #1e1e2e;
+    color: #cad3f5;
+}
+.innerbutton > button:hover {
+    background-color: #1e1e2e;
+    color: #cad3f5;
+}
+.all > button {
+    background-color: #1e1e2e;
+    color: #cad3f5;
+}
+.titleRow.flexRow {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+.titleCell.flexCell {
+    color: #cad3f5;
+}
+.box.connectionHeading {
+    color: #cad3f5;
+}
+#dsRate > div > span {
+    color: #cad3f5;
+}
+.noMobile.box.info > div > span {
+    color: #cad3f5;
+}
+.noMobile.connection.info > div > div > div > span {
+    color: #cad3f5;
+}
+#usRate > div > span {
+    color: #cad3f5;
+}
+.externAP.connectionHeading {
+    color: #cad3f5;
+}
+.noMobile.externAP.info > span {
+    color: #cad3f5;
+}
+.innerbutton > div > button {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+div.dyn1.flexCell {
+    color: #cad3f5;
+}
+#uiViewCpuUtilChart > .ct-chart-bar > .ct-grids {
+    visibility: hidden;
+}
+#uiViewCpuTempChart > .ct-chart-bar > .ct-grids > .ct-grid-background {
+    visibility: hidden;
+}
+#uiViewRamUsageChart > .ct-chart-bar > .ct-grids > .ct-grid-background {
+    visibility: hidden;
+}
+.v-table__row {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.v-table__table-header {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.v-confirm.v-message-box {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#contentBox {
+    background-color: #1e1e2e;
+    color: #cad3f5;
+}
+.header__title {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.flexGroupHeader {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiCableMedium {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiCableIpv4 {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiCableIpv6 {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiCableDns {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.rootinfo {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+.rootwlan {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+span.caption {
+    color: #cad3f5 !important;
+}
+.topology_legend.topo.caption > div > span {
+    color: #cad3f5 !important;
+}
+#new_entry {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+.select_more_entry {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+.edit.icon {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+.overflow-menu__button {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+td:nth-of-type(1) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td:nth-of-type(2) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td.buttonrow:nth-of-type(3) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td.buttonrow:nth-of-type(4) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiPort {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+#uiViewFrom1 {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiViewFromNum {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiDate {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiFonbooks {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiViewDest {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiViewDestNum {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiViewSubject {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiViewFaxText {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#delete_sip\:sip0 {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#content > div > div > .grid.formular > .select-wrapper--horizontal.select-wrapper > .select-wrapper__select {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#content > div > .grid.formular > .select-wrapper--horizontal.select-wrapper > .select-wrapper__select {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+td:nth-of-type(3) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td:nth-of-type(4) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td:nth-of-type(5) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td:nth-of-type(6) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td:nth-of-type(7) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td:nth-of-type(8) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+td:nth-of-type(9) {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiButton494071645485entry0 {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiSipProvider {
+    background-color: #181825 !important;
+    color: #cad3f5 !important;
+}
+.header.flex-table {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiNumberInput1_MultiSip_1 {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiNumberInput2_MultiSip_1 {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiDivDelMultiSip1 > .delete.icon {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#btn_form_foot {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.recommended.fwd_btn {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiCancel {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiUsername {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiAuthname {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiPwd {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#uiRegistrar {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.select-wrapper__select {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#btnSave {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+div.btn_form > div > button {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+div.flexRow {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.flexTableBody {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.flexTableHeader {
+    visibility: hidden;
+}
+.ct-back {
+    visibility: hidden;
+}
+#uiActivateTV {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#tStat {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+tr.first_row > .first_col {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiToday > .first_col {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiYesterday > .first_col {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiThisWeek > .first_col {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiThisMonth > .first_col {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#uiLastMonth > .first_col {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+th {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.page-tabs--visible {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.page-tabs__tab--active.page-tabs__tab.h4 {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.page-tabs__tab--active.page-tabs__tab--first.page-tabs__tab.h4 {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.selected.page-tabs__tab--active.page-tabs__tab--last.page-tabs__tab.h4 {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.all-area.scroll_area {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+a.print {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.delete.icon {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.formular > .secondary-button {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.select-wrapper__select.no-watch.print {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.page-tabs__tab--active.selected.page-tabs__tab.h4 {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.flexTableHeader {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.body1-semibold.head {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.modelMsgBox {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#Button2 {
+    background-color: #181825;
+    color: #cad3f5 !important;
+}
+#Button1 {
+    background-color: #181825;
+    color: #cad3f5 !important;
+}
+.btn_form > button {
+    background-color: #181825;
+    color: #cad3f5 !important;
+}
+.btn_form > button:hover {
+    background-color: #181825;
+    color: #cad3f5 !important;
+}
+#sendNowBtn {
+    background-color: #181825;
+    color: #cad3f5 !important;
+}
+/* Bottom bar */
+.main-buttons--visible {
+    background-color: #1e1e2e;
+    color: #cad3f5 !important;
+}
+div.main-buttons__button-wrapper {
+    background-color: #181825;
+    color: #cad3f5 !important;
+}
+.primary-button {
+    color: #cad3f5 !important;
+}
+#uiTeaser {
+    background-color: #181825;
+    color: #cad3f5 !important;
+}
+/* FRITZ!NAS */
+.navbar {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.search-bar {
+    background-color: #181825 !important;
+    color: #cad3f5 !important;
+}
+.left.context-menu {
+    background-color: #181825 !important;
+    color: #cad3f5 !important;
+}
+.user-menu > .linked-list > a.list-item > span {
+    color: #cad3f5 !important;
+}
+a.list-item:hover {
+    background-color: #3d3f52 !important;
+    color: #cad3f5 !important;
+}
+li.context-menu__item:hover {
+    background-color: #3d3f52 !important;
+    color: #cad3f5 !important;
+}
+.selection-border {
+    background-color: #181825 !important;
+    color: #cad3f5 !important;
+}
+button.v-btn--secondary.v-btn--small.v-btn--flat.v-btn--desktop.v-btn--disabled.v-btn > .v-btn__content > span {
+    color: #cad3f5 !important;
+}
+.selection-count {
+    color: #cad3f5 !important;
+}
+main {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.v-message-box {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.filename.prop {
+    color: #cad3f5 !important;
+}
+.filename.prop:hover {
+    background-color: #3d3f52 !important;
+    color: #cad3f5;
+}
+div.list-item.directory-item:hover {
+    background-color: #3d3f52 !important;
+    color: #cad3f5;
+}
+div.list-item.file-item:hover {
+    background-color: #3d3f52 !important;
+    color: #cad3f5;
+}
+.function-menu {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.app-body {
+    background: none #1e1e2e !important;
+    color: #cad3f5;
+}
+.user-menu > .linked-list {
+    background-color: #1e1e2e;
+    color: #cad3f5;
+}
+.files-content {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.files-menu {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.table-head {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.filler {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+footer {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#ui-calls-content > .area__section > .v-subheader--block.v-subheader {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+#ui-calls-area > .area__inner {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#ui-nas-area {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#ui-comfort-area {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#ui-comfort-content > div.area__section > .v-subheader--block.v-subheader {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#ui-smarthome-area {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#ui-smarthome-area > .area__inner > .area__content > .area__section > .v-subheader--block.v-subheader {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#ui-calls-submenu {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+#ui-calls-submenu > .v-subheader--block.v-subheader {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+body {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+/* MyFRITZ! */
+#ui-calls-area {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.area-menu {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.v-navbar {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.user-menu__header {
+    background-color: #181825 !important;
+    color: #cad3f5;
+}
+.area-head__box {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+/* Wifi settings saved */
+.qa-v-print-info__body.v-print-info__body {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
+.qa-v-print-info__header.v-print-info__header {
+    background: none #181825 !important;
+    color: #cad3f5;
+}
+.qa-v-print-info__footer.v-print-info__footer {
+    background-color: #1e1e2e !important;
+    color: #cad3f5;
+}
